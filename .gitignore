@@ -1,4 +1,8 @@
 .Rproj.user
 .Rhistory
 .RData
+.csv
 data/*
+train_users_2.csv
+test_users.csv
+submission.csv
